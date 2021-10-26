@@ -2,7 +2,7 @@
 Title | README
 -- | --
 Create Date | `2021-10-10T15:34:33Z`
-Update Date | `2021-10-10T15:48:02Z`
+Update Date | `2021-10-26T01:59:05Z`
 Edit link | [here](https://github.com/junxnone/wiki/issues/70)
 
 ---
@@ -16,6 +16,7 @@ This is a Wiki.
 ----
 
 [![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](https://github.com/junxnone/wiki/issues/new)
+[![](https://img.shields.io/badge/%2B-Update%20Sidebar-brightgreen)](https://github.com/junxnone/wiki/issues/71)
 
 
 ## Steps
