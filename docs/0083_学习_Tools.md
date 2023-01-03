@@ -2,12 +2,12 @@
 Title | 学习 Tools
 -- | --
 Created @ | `2022-01-13T09:32:25Z`
-Updated @| `2023-01-03T13:13:11Z`
+Updated @| `2023-01-03T13:14:04Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/wiki/issues/83)
 
 ---
-## 相关内容
+## Github 管理生活
 
 Name | Description
 -- | -- 
