@@ -1,13 +1,13 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-01-03T13:31:44Z`
+Updated @ | `2023-06-04T15:29:05Z`
 Edit @ | [here](https://github.com/junxnone/wiki/issues/70)
 
 ---
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
 
-
+[![Update Sidebar](https://github.com/junxnone/wiki/actions/workflows/update_sidebar.yml/badge.svg)](https://github.com/junxnone/wiki/actions/workflows/update_sidebar.yml)
 
 This is a 360 Wiki. Supported By the [Template Wiki](https://junxnone.github.io/twiki/#/)
 
