@@ -40,4 +40,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd>2023.06.04<sub>Junx23</sub></kbd>
+<kbd><sub>@0820060605</sub></kbd>
