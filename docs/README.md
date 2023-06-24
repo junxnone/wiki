@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-06-17T12:02:56Z`
+Updated @ | `2023-06-24T16:13:38Z`
 Edit @ | [here](https://github.com/junxnone/wiki/issues/70)
 
 ---
@@ -13,12 +13,12 @@ This is a 360 Wiki. Supported By the [Template Wiki](https://junxnone.github.io/
 
 
 - [Mindmap - Markmap](https://junxnone.github.io/wiki/markmap.html?md=https://junxnone.github.io/wiki/_sidebar.md)
-- [3D Knowledge Graph](https://junxnone.github.io/wiki/kg)
+- [3D Knowledge Graph](https://junxnone.github.io/kg?json=wiki/kg.json)
 
 ---
 
 [Index](_sidebar.md ':include')
 
-[kg](https://junxnone.github.io/wiki/kg ':include :type=iframe width=100% height=800px')
+[kg](https://junxnone.github.io/kg?json=wiki/kg.json ':include :type=iframe width=100% height=800px')
 
 
